@@ -3,6 +3,8 @@
 # 📊 Raio-X do Mercado de Dados (Live Dashboard)
 **Um Produto de Dados End-to-End: Da coleta em tempo real via web à visualização executiva.**
 
+<img src="dash_pesquisa.png" width="100%">
+
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiYmY4ZGI5OTktYzI0Yi00YjM1LTgzYmItOWYzMmMyMDVkN2RlIiwidCI6ImYzZDgzM2M2LWQ3ZGUtNDFjNC1hYTQ0LTMxZDc2YmYyNzA5YyJ9)
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](#)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](#)
